@@ -29,3 +29,6 @@ python -m venv venv
 venv/Scripts/activate
 pip install -e .
 ```
+## Team Members
+- Gregory Loshkajian
+- Priscilla Mariani
