@@ -10,4 +10,4 @@ Development Lead
 Contributors
 ------------
 
-* Priscilla Mariani <pmariani3@gatech.edu>
+* Priscilla Mariani <cmpriscilla@yahoo.com>
