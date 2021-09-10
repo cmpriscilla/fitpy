@@ -1,7 +1,7 @@
 """Top-level package for FitPy."""
 
-__author__ = """Gregory Loshkajian"""
-__email__ = "gloshkajian3@gatech.edu"
+__author__ = """Gregory Loshkajian, Priscilla Mariani"""
+__email__ = "gloshkajian3@gatech.edu, cmpriscilla@yahoo.com"
 __version__ = "0.1.0"
 
 
