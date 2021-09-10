@@ -1,5 +1,5 @@
 # FitPy
-FitPy fits distributions for you, from data! It can even decide which distribution is best for your data!
+FitPy can be used to fit empirical data into various classes of discrete and continuous distributions based on derived MLEs (and Newton-Raphson numerical method where applicable). It can also propose the best distribution fit based on Pearson’s chi-squared goodness-of-fit and Epps-Singleton two-sample tests
 
 Free software: MIT license
 
